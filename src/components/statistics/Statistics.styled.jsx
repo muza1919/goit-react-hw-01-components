@@ -6,7 +6,7 @@ export const Container = styled.section`
   margin-top: 20px;
   margin-left: auto;
   margin-right: auto;
-  background-color: aquamarine;
+  background-color: #BAD5FB;
   border: 1px solid black;
 `;
 
@@ -21,7 +21,8 @@ export const List = styled.ul`
 export const Title = styled.h2`
   text-align: center;
   font-size: 20px;
-  color: grey;
+  color: black;
+  text-transform: uppercase;
 `;
 
 export const Item = styled.li`
